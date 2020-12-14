@@ -1,2 +1,2 @@
 # bitstamp_ws_client
-A Bitstamp websocket client for Python.
+A Bitstamp websocket synchronous client for Python.
