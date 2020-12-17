@@ -8,3 +8,5 @@ A Bitstamp synchronous websocket client for Python.
 
     myclient = wsClient(channels='order_book_btcusd')
     myclient.start()
+
+## Overwriting methods
