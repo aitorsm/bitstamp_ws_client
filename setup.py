@@ -19,8 +19,6 @@ setup(
     packages=find_packages(),
     install_requires=install_requires,    
     description='The unofficial Python websocket client for the Bitstamp API',
-    long_description=long_description,
-    long_description_content_type="text/markdown",
     download_url='https://github.com/aitorSTL/bitstamp_ws_client/archive/main.zip',
     keywords=['bitstamp', 'bitstamp-api', 'orderbook', 'trade', 'bitcoin', 'ethereum', 'BTC', 'ETH', 'client', 'api', 'wrapper',
               'exchange', 'crypto', 'currency', 'trading', 'trading-api', 'coinbase', 'pro', 'prime', 'websocket'],
