@@ -1,3 +1,7 @@
 # Bitstamp WebSocket Client
 A Bitstamp synchronous websocket client for Python.
-# Example of usage
+# Usage example
+  from bitstamp_wsclient import wsClient
+
+  myclient = wsClient(channels='order_book_btcusd')
+  myclient.start()
